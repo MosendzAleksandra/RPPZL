@@ -1,0 +1,11 @@
+Имена всех жителей планеты под названием Tatooine :
+1)  Luke Skywalker
+2)  C-3PO
+3)  Darth Vader
+4)  Owen Lars
+5)  Beru Whitesun lars
+6)  R5-D4
+7)  Biggs Darklighter
+8)  Anakin Skywalker
+9)  Shmi Skywalker
+10)  Cliegg Lars
