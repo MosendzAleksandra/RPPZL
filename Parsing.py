@@ -9,6 +9,7 @@ from bs4 import BeautifulSoup
 import re
 
 print("Здравствуйте")
+print("Вами используется парсер")
 
 while True:
 
